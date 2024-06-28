@@ -9,15 +9,28 @@ A frontend service named sbom-website, designed for showing sbom secure supply c
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 项目安装
+
+	npm install
+	npm install -g @vue/cli
+	vue ui
+	
+	访问地址：http://localhost:8000 
+	
+2. 本地启动
+
+	npm run serve
+	
+3. 打包部署
+
+	npm run build-production
+	
+4. 代码检查
+	npm run lint
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.sbom-service的前端服务
 
 #### 参与贡献
 
